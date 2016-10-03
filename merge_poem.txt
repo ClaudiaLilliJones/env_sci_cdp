@@ -10,8 +10,9 @@ then
 then
 i open mergetool
 thank god for you
-CLEANING MY 
+CLEANING MY
 >>>>HEAD
 MY DIRTY >>>>>>HEAD
 are we done now?
 can i ever really quit you?
+test 2!
